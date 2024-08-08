@@ -10,6 +10,6 @@
 
 function calculateTotalSpentByCategory(transactions) {
   return [];
-}
+}dsfaigai
 
 module.exports = calculateTotalSpentByCategory;
